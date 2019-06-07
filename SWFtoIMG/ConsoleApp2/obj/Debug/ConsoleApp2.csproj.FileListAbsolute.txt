@@ -1,0 +1,9 @@
+C:\CODE\SWF\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\CODE\SWF\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\CODE\SWF\ConsoleApp1\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\CODE\SWF\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\CODE\SWF\ConsoleApp1\ConsoleApp2\obj\Debug\Interop.SWFToImage.dll
+C:\CODE\SWF\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.ResolveComReference.cache
+C:\CODE\SWF\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\CODE\SWF\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\CODE\SWF\ConsoleApp1\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
